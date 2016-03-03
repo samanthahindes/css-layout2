@@ -7,3 +7,9 @@ img{
   padding: 10px 20px;
 }
 
+.heading{
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
