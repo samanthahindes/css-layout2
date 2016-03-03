@@ -1,5 +1,17 @@
 /*your custom CSS here*/
-box grid_4{
+.heading {
+  position: fixed;
+  width: 100%;
+  padding: 0 20px;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  z-index: 10;
+  border-bottom: 2px solid #222;
+  
+}
+
+.box grid_4{
   padding: 10px 10 px;
 }
 
@@ -8,3 +20,14 @@ img{
 }
 
 
+.footer {
+  
+  position: fixed;
+  bottom: 0px;
+  left: 10px;
+  width: 100%;
+  padding: 0 20px;
+  border-top: 2px solid #222;
+  
+  
+}
